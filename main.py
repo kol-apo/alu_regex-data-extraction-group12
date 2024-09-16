@@ -6,8 +6,8 @@ from url_regex import extract_urls
 from credit_card_regex import extract_credit_card_numbers
 from time_regex import extract_times
 from html_tag_regex import extract_html_tags
-from currency_regex import extract_currency
 from hashtag_regex import extract_hashtags
+from currency_regex import extract_currency
 
 def read_sample_file():
     with open('test_data/sample.txt', 'r') as file:
