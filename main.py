@@ -22,5 +22,5 @@ if __name__ == '__main__':
     print("Credit Card Numbers:", extract_credit_card_numbers(text))
     print("Times:", extract_times(text))
     print("HTML Tags:", extract_html_tags(text))
-    print("Currency Amounts:", extract_currency(text))
     print("Hashtags:", extract_hashtags(text))
+    print("Currency Amounts:", extract_currency(text))
