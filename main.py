@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 from email_regex import extract_emails
-from url_regex import extract_urls
 from phone_regex import extract_phone_numbers
+from url_regex import extract_urls
 from credit_card_regex import extract_credit_card_numbers
 from time_regex import extract_times
 from html_tag_regex import extract_html_tags
