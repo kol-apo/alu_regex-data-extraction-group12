@@ -15,9 +15,9 @@ def read_sample_file():
 
 if __name__ == '__main__':
     text = read_sample_file()
-
-    print("Emails:", extract_emails(text))
+    
     print("URLs:", extract_urls(text))
+    print("Emails:", extract_emails(text))
     print("Phone Numbers:", extract_phone_numbers(text))
     print("Credit Card Numbers:", extract_credit_card_numbers(text))
     print("Times:", extract_times(text))
