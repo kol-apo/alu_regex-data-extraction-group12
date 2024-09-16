@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 import re
 
 def extract_times(text):
