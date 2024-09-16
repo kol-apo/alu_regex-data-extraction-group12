@@ -1,0 +1,9 @@
+test caes
+john.doe@example.com, jane_doe@company.org
+Visit https://www.example.com or http://subdomain.example.org/page
+Call me at (123) 456-7890 or 123-456-7890
+Credit card number: 1234-5678-9012-3456
+Time: 14:30, 2:30 PM
+HTML tag: <div class="example">Some text</div>
+Hashtag: #Example #ThisIsAHashtag
+Price: $19.99, $1,234.56
