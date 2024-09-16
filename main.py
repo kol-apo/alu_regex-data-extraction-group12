@@ -24,4 +24,3 @@ if __name__ == '__main__':
     print("HTML Tags:", extract_html_tags(text))
     print("Hashtags:", extract_hashtags(text))
     print("Currency Amounts:", extract_currency(text))
-
